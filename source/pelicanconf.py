@@ -6,7 +6,8 @@ SITENAME = 'something about anything'
 SITEURL = ''
 
 PATH = 'content'
-
+OUTPUT_PATH = '../'
+THEME = "template/pelican-simplegrey"
 TIMEZONE = 'Europe/Moscow'
 
 DEFAULT_LANG = 'ru'
