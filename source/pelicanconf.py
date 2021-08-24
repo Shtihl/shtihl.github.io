@@ -30,6 +30,8 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
+SUMMARY_MAX_LENGTH = 20
+SUMMARY_END_SUFFIX = '…'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
