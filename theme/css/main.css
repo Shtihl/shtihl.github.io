@@ -290,7 +290,9 @@ li.tag-4 { font-size: 110%; margin: 0 1em; }
 }
 
 /* Responsive */
-
+img {
+  max-width: 100%;
+}
 @media (min-width: 1280px) {
   body {
     margin: 0 16%;
